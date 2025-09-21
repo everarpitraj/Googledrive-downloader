@@ -1,5 +1,8 @@
 # Download with Progress for Google Colab
 
+## Run on Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AItPbluMIWygsMoahZnXwuIiNkao55KB#scrollTo=aoXU2vhBShBc&line=1&uniqifier=1)
+
 This code allows you to download files with progress tracking in Google Colab.
 
 ```python
