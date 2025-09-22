@@ -1,5 +1,7 @@
 # Googledrive-downloader
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Run on Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AItPbluMIWygsMoahZnXwuIiNkao55KB#scrollTo=aoXU2vhBShBc&line=1&uniqifier=1)
@@ -8,7 +10,6 @@ A simple and efficient Google Drive downloader with progress tracking for Google
 
 ```python
 # @title 📥 Download with Progress { display-mode: "form" }
-
 from google.colab import drive
 import os
 
@@ -47,3 +48,7 @@ else:
 - **Resume capability**: Uses `-c` flag to resume interrupted downloads
 - **Google Drive integration**: Saves directly to your mounted Google Drive
 - **Flexible parameters**: Easy to customize URL, path, and filename
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
